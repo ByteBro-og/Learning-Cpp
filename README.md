@@ -1,9 +1,9 @@
 # C and C++ DSA Repository
-This repo contains all my Data Structures and Algorithms programs written in C and C++.
+This repo contains all my C and C++ Learning Journey
 
 ## 📚 Topics Covered
 Will be added once i learn them 
 
 ## 🚀 Goal
-To improve my DSA skills using C and C++ from beginner to advanced.
+To beocome good in C and C++
 
